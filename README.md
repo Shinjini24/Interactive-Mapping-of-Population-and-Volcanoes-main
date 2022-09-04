@@ -1,1 +1,2 @@
 # Interactive-Mapping-of-Population-and-Volcanoes-main
+This is basically a web map that is displayed through a browser and can be visited through the web. This map is built in Python and Folium and map has three layers, it has base map layer; it has a polygon layer which represents the population of the countries and have a point layer. We can turn on and off this layer. Also have a pop-up windows which can tells about the brief description of those volcanoes.
